@@ -30,4 +30,4 @@ Endpoints da api:
 ![image](https://user-images.githubusercontent.com/60354322/235278952-d4a551f2-600f-436d-a197-297b0dae04f5.png) 
 
 
-Os metodos foram implementados na camada de servico (Services/FilmeService)
+Os metodos foram implementados na camada de servico (Services/FilmeService) e os dados mapeados com EF.
