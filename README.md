@@ -6,6 +6,7 @@ A API permite o usuario Criar, Ler, Alterar e Deletar filmes no banco de dados, 
 Endpoints da api:
 
 - Retorna todos os filmes
+<br>
 ![image](https://user-images.githubusercontent.com/60354322/235278870-b0489282-c3be-465c-abee-aca0ef2f0a3a.png) 
 
 
