@@ -31,3 +31,5 @@ Endpoints da api:
 
 
 Os metodos foram implementados na camada de servico (Services/FilmeService) e os dados mapeados com EF.
+
+O projeto foi feito usando Visual Studio
